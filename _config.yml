@@ -1,0 +1,10 @@
+title: Taller de Git/GitHub
+email: jose@bgm.cl
+description: >-
+  Taller de introducción a Git/GitHub
+github_username: "BGMP"
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
